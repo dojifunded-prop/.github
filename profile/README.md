@@ -57,7 +57,7 @@ flowchart LR
 | doji-explorer | Public explorer for on-chain trade certificates. | React + Vite (TS) |
 | doji-copy-engine | Copy-trading service. | Node (TS) |
 | doji-agent-engine | AI trading-assistant service. | Node (TS) |
-| doji-backtesting-engine | Strategy backtesting. _(Current repo is misspelled `doji-backtesting-enigne` — rename it.)_ | Rust |
+| doji-backtesting-engine | Strategy backtesting. | Rust |
 
 ## Tech stack
 
